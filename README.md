@@ -12,4 +12,4 @@ I'm *Andrey Shestakov*, I'm python developer and further fullstack developer
 - DB for Python Developers [Certificate](https://github.com/AVS-2307/AVS-2307/blob/main/DB%20for%20Python%20Developers.pdf)
 - Python Professional [Certificate](https://github.com/AVS-2307/AVS-2307/blob/main/Python%20Professional.pdf)
 - Django [Certificate](https://github.com/AVS-2307/AVS-2307/blob/main/Django.pdf)
-- HTML CSS: basics [Certificate] ()
+- HTML CSS: basics [Certificate] (https://github.com/AVS-2307/AVS-2307/blob/main/HTML%20and%20CSS.pdf)
